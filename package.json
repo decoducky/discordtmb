@@ -1,0 +1,12 @@
+{
+  "name": "BotBoy185",
+  "version": "1.0.0",
+  "description": "TMB Bot",
+  "main": "bot.js",
+  "author": "TMB Server",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "save": "^2.4.0",
+    "winston": "^3.2.1"
+  }
+}
